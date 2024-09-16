@@ -1,16 +1,5 @@
 # sport_app
 
-A new Flutter project.
+An application aiming to help in creating and saving workouts
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Loom video of why i chose flutter: https://www.loom.com/share/7fd072a7d0864b41a5159e55a554e0b4?sid=4abe6a9e-5c52-459a-a9d4-d1ea36837aef
